@@ -199,8 +199,6 @@ body {
   transform: translateY(0); }
 
 .card {
-  perspective: 150rem;
-  -moz-perspective: 150rem;
   position: relative;
   height: 52rem; }
   .card__side {
